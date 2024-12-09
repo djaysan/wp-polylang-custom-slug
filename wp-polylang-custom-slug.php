@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: WP Polylang Custom Slug
-Plugin URI: https://github.com/kishan45/wp-polylang-custom-slug/
+Plugin URI: https://github.com/kishankotharri/wp-polylang-custom-slug/
 Description: WP Polylang Custom Slug
 Author: Kishan Kothari
 Author URI: https://www.linkedin.com/in/kishankothari/

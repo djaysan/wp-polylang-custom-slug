@@ -75,8 +75,6 @@ class WP_Polylang_Custom_Slug
 	public function __construct() 
 	{
 		include_once 'includes/wp-polylang-custom-slug-post.php';
-		include_once 'includes/wp-polylang-custom-slug-term.php';
-		include_once 'includes/wp-polylang-custom-slug-media-sync.php';
 	}
 	
 }

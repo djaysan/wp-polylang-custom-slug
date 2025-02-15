@@ -1,10 +1,11 @@
 <?php
 /**
 Plugin Name: WP Polylang Custom Slug
-Plugin URI: https://github.com/kishankotharri/wp-polylang-custom-slug/
-Description: WP Polylang Custom Slug
-Author: Kishan Kothari
-Author URI: https://www.linkedin.com/in/kishankothari/
+Plugin URI: https://github.com/djaysan/wp-polylang-custom-slug/
+Description: Polylang Custom Slug
+Author: Ludovic Verbeeck
+Author URI: https://www.lverbeeck.com/
+Fork of: Kishan Kothari (special thanks!)
 Text Domain: wp-polylang-custom-slug
 Domain Path: /languages
 Version: 1.0.0
